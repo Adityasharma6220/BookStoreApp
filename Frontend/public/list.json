@@ -1,0 +1,91 @@
+[
+    {
+        "id" :1,
+        "name":"Comic Book",
+         "title" : "Comic Edition1",
+         "price" : "$10",
+         "category":"free",
+         "image" : "https://img.freepik.com/free-photo/desk-with-pen-paper-book-coffee-cup-work-generated-by-artificial-intelligence_188544-102290.jpg?t=st=1723910584~exp=1723914184~hmac=7546cd86e322593ecda3c6d024226fc18108968693a3823970668808f5dc7bb7&w=1060"
+    },
+    {
+        "id" :2,
+        "name":"Food Book",
+         "title" : "Food Edition1",
+         "price" : 20,
+         "category":"Food",
+         "image" :"https://img.freepik.com/free-photo/desk-with-pen-paper-book-coffee-cup-work-generated-by-artificial-intelligence_188544-102290.jpg?t=st=1723910584~exp=1723914184~hmac=7546cd86e322593ecda3c6d024226fc18108968693a3823970668808f5dc7bb7&w=1060"
+    },
+    {
+        "id" :3,
+        "name":"Sports Book",
+         "title" : "Sports Edition1",
+         "price" : 30,
+         "category":"Sports",
+         "image" :"https://img.freepik.com/free-photo/desk-with-pen-paper-book-coffee-cup-work-generated-by-artificial-intelligence_188544-102290.jpg?t=st=1723910584~exp=1723914184~hmac=7546cd86e322593ecda3c6d024226fc18108968693a3823970668808f5dc7bb7&w=1060"
+    },
+    {
+        "id" :4,
+        "name":"Zym Book",
+         "title" : "Zym Edition1",
+         "price" : 40,
+         "category":"free",
+         "image" :"https://img.freepik.com/free-photo/desk-with-pen-paper-book-coffee-cup-work-generated-by-artificial-intelligence_188544-102290.jpg?t=st=1723910584~exp=1723914184~hmac=7546cd86e322593ecda3c6d024226fc18108968693a3823970668808f5dc7bb7&w=1060"
+    },
+    {
+        "id" :5,
+        "name":"Weeding Book",
+         "title" : "Weeding Edition1",
+         "price" : 50,
+         "category":"Weeding",
+         "image" :"https://img.freepik.com/free-photo/desk-with-pen-paper-book-coffee-cup-work-generated-by-artificial-intelligence_188544-102290.jpg?t=st=1723910584~exp=1723914184~hmac=7546cd86e322593ecda3c6d024226fc18108968693a3823970668808f5dc7bb7&w=1060"
+    },
+    {
+        "id" :6,
+        "name":"Music Book",
+         "title" : "Music Edition1",
+         "price" : 60,
+         "category":"Music",
+         "image" :"https://img.freepik.com/free-photo/desk-with-pen-paper-book-coffee-cup-work-generated-by-artificial-intelligence_188544-102290.jpg?t=st=1723910584~exp=1723914184~hmac=7546cd86e322593ecda3c6d024226fc18108968693a3823970668808f5dc7bb7&w=1060"
+    },  {
+        "id" :7,
+        "name":"Study Book",
+         "title" : "Study Edition1",
+         "price" : 70,
+         "category":"free",
+         "image" :"https://img.freepik.com/free-photo/desk-with-pen-paper-book-coffee-cup-work-generated-by-artificial-intelligence_188544-102290.jpg?t=st=1723910584~exp=1723914184~hmac=7546cd86e322593ecda3c6d024226fc18108968693a3823970668808f5dc7bb7&w=1060"
+    },
+    {
+        "id" :8,
+        "name":"Sofa Book",
+         "title" : "Sofa Edition1",
+         "price" : 80,
+         "category":"free",
+         "image" :"https://img.freepik.com/free-photo/desk-with-pen-paper-book-coffee-cup-work-generated-by-artificial-intelligence_188544-102290.jpg?t=st=1723910584~exp=1723914184~hmac=7546cd86e322593ecda3c6d024226fc18108968693a3823970668808f5dc7bb7&w=1060"
+    },
+    {
+        "id" :9,
+        "name":"Materail Book",
+         "title" : "Materail Edition1",
+         "price" : 90,
+         "category":"free",
+         "image" :"https://img.freepik.com/free-photo/desk-with-pen-paper-book-coffee-cup-work-generated-by-artificial-intelligence_188544-102290.jpg?t=st=1723910584~exp=1723914184~hmac=7546cd86e322593ecda3c6d024226fc18108968693a3823970668808f5dc7bb7&w=1060"
+    },
+    {
+        "id" :10,
+        "name":"Training Book",
+         "title" : "Training Edition1",
+         "price" : 100,
+         "category":"free",
+         "image" :"https://img.freepik.com/free-photo/desk-with-pen-paper-book-coffee-cup-work-generated-by-artificial-intelligence_188544-102290.jpg?t=st=1723910584~exp=1723914184~hmac=7546cd86e322593ecda3c6d024226fc18108968693a3823970668808f5dc7bb7&w=1060"
+    },
+    {
+        "id" :11,
+        "name":"Hell Book",
+         "title" : "Hell Edition1",
+         "price" : 20,
+         "category":"Hell",
+         "image" :"https://img.freepik.com/free-photo/desk-with-pen-paper-book-coffee-cup-work-generated-by-artificial-intelligence_188544-102290.jpg?t=st=1723910584~exp=1723914184~hmac=7546cd86e322593ecda3c6d024226fc18108968693a3823970668808f5dc7bb7&w=1060"
+    }
+
+
+]
